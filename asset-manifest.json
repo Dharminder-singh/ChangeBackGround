@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChangeBackGround/static/css/main.62d5716c.css",
+    "main.js": "/ChangeBackGround/static/js/main.5e25f795.js",
+    "static/media/wp2552690.jpg": "/ChangeBackGround/static/media/wp2552690.e9fcd4b41ae282593724.jpg",
+    "static/media/hQuSTGC.jpg": "/ChangeBackGround/static/media/hQuSTGC.4345a2b59f85cb5263b1.jpg",
+    "static/media/th.jpeg": "/ChangeBackGround/static/media/th.9bd9515fa84bc17fc6d3.jpeg",
+    "index.html": "/ChangeBackGround/index.html",
+    "main.62d5716c.css.map": "/ChangeBackGround/static/css/main.62d5716c.css.map",
+    "main.5e25f795.js.map": "/ChangeBackGround/static/js/main.5e25f795.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d5716c.css",
+    "static/js/main.5e25f795.js"
+  ]
+}
