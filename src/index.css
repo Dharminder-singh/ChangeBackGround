@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Container{
+  height: 100vh;
+  background-color: aqua;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  background-position: center;
+}
+.Container h2{
+  margin-top: 50px;
+}
+.card{
+  list-style: none;
+  display: flex;
+  width: 100%;
+  margin: auto;
+  justify-content: center;
+  align-items: flex-end;
+  padding-bottom: 50px;
+  position: absolute;
+  bottom: 0;
+}
+.card li{
+  width: 320px;
+  padding: 10px;
+  transition: all 500ms;
+}
+.card li:hover{
+  scale: 1.1;
+}
+.card li img{
+  display: flex;
+  width: 100%;
+  aspect-ratio: 3/2;
+}
+
